@@ -6,12 +6,14 @@ You can see the project live at - [Click Here]
 [Click Here]: <https://rtcautoresponder.herokuapp.com/>
 Live Link :https://rtcautoresponder.herokuapp.com/
 
-![alt text](https://i.ibb.co/TT0YHTC/ezgif-com-gif-maker-15.gif)
-
 ``` 
 Built a Ticket Booking System Where user will receive ticket booked confirmation mail as well
 Use can Use ChatBox to check your ticket status or can ask for confirmation mail.
 ```
+
+![alt text](https://i.ibb.co/TT0YHTC/ezgif-com-gif-maker-15.gif)
+
+
 
 #Improvement That Can be Done
 
